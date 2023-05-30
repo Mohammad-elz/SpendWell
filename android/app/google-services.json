@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980987188635",
+    "project_id": "spendwell-8e407",
+    "storage_bucket": "spendwell-8e407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980987188635:android:23292f803514d3858b3d3e",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980987188635-ch29b8e8njf4miuh1fnj3aesakfo4va8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb-PRJP-XMD2cr2khuyRy60hlbh2FHEQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980987188635-ch29b8e8njf4miuh1fnj3aesakfo4va8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
